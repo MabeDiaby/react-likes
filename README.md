@@ -37,7 +37,8 @@ Create a new component called **Likes** in the `src` directory and add functiona
 
 ## Homework / Bonus
 
-1. Change the increment button to have a `+` as its text.
+1. Add a 'profile picture' to your site. What component will it be in?
+1.Change the increment button to have a `+` as its text.
 1. Add another button that decrements the `totalLikes` and has a `-` as its text.
 1. Render the `totalLikes` to the page in a `p` element.
 1. Once you have the `totalLikes` displaying on the page, move just the display paragraph into its own component called **LikeTotal** and have the Likes component you built render it (hint: use props to pass the value of `totalLikes` to your new LikeTotal component).
