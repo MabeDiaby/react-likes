@@ -1,6 +1,6 @@
 [![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
 
-# SEI 1018, November 17 2021
+# SEI 1018 | November 16 2021
 # React Likes
 
 Create a likes component in React. Your final product should function similarly to
@@ -37,7 +37,7 @@ Create a new component called **Likes** in the `src` directory and add functiona
 ## Homework / Bonus
 
 1. Add a 'profile picture' to your site. What component will it be in?
-1.Change the increment button to have a `+` as its text.
+1. Change the increment button to have a `+` as its text.
 1. Add another button that decrements the `totalLikes` and has a `-` as its text.
 1. Render the `totalLikes` to the page in a `p` element.
 1. Once you have the `totalLikes` displaying on the page, move just the display paragraph into its own component called **LikeTotal** and have the Likes component you built render it (hint: use props to pass the value of `totalLikes` to your new LikeTotal component).
